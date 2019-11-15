@@ -8,6 +8,26 @@ The course notes about Stanford CS224n Machine Learning with Graphs Fall 2019
 >
 > * you have to purchase the course ($5200): [Machine Learning with Graphs | Stanford Online](https://online.stanford.edu/courses/cs224w-machine-learning-graphs)
 
+## Recitation
+
+### SNAP.py
+
+* Material
+  * Fall 2019 Lecture 7
+    * [slides](CourseMaterials/Recitation/CS224W-snappy-tutorial(2019).pdf)
+  * **Autumn 2018 Lecture 8**
+    * [slides](CourseMaterials/Recitation/SNAP.PY-recitation(2018).pdf)
+    * [video](http://snap.stanford.edu/class/cs224w-videos-2018/180928-cs224w-rs-720.mp4)
+
+### Linear Algebra, Probability, and Proof Techniques
+
+* Material
+  * Fall 2019 Lecture 7
+    * [slides](CourseMaterials/Recitation/CS224W_LinAl_Prob_Proof(2019).pdf)
+  * **Autumn 2018 Lecture 8**
+    * [slides](CourseMaterials/Recitation/proofs-recitation(2018).pdf)
+    * [video](http://snap.stanford.edu/class/cs224w-videos-2018/181005-cs224w-rs-720.mp4)
+
 ## Lecture
 
 > * I'll using the previous course materials:
