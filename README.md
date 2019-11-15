@@ -50,6 +50,32 @@ The course notes about Stanford CS224n Machine Learning with Graphs Fall 2019
     * [slides](CourseMaterials/PageRank/03-pagerank(2018).pdf)
     * [video](http://snap.stanford.edu/class/cs224w-videos-2018/181002-cs224w-720.mp4)
 
+## Assignment
+
+### 2019 Homework
+
+#### 2019 Homework 0
+
+* [Instruction](Assignments/Homework2019/hw0-bundle/hw0.pdf)
+
+> TODO
+
+#### 2019 Homework 1
+
+* [Instruction](Assignments/Homework2019/hw1-bundle/hw1.pdf)
+
+> TODO
+
+#### 2019 Homework 2: Node Classification, TransE, GNN Expressiveness and Training
+
+* [Instruction](Assignments/Homework2019/hw2-bundle/hw2.pdf)
+
+#### 2019 Homework 3
+
+* [Instruction](Assignments/Homework2019/hw3-bundle/hw3.pdf)
+
+> TODO
+
 ## Related Resources
 
 ### SNAP - Stanford Network Analysis Project
