@@ -3,8 +3,9 @@
 The course notes about Stanford CS224n Machine Learning with Graphs Fall 2019
 
 * [CS224W Fall 2019](http://web.stanford.edu/class/cs224w/)
+  * [videos](http://snap.stanford.edu/class/cs224w-videos-2019/)
 
-> but it didn't release the latest (2019) videos
+> ~~but it didn't release the latest (2019) videos~~
 >
 > * you have to purchase the course ($5200): [Machine Learning with Graphs | Stanford Online](https://online.stanford.edu/courses/cs224w-machine-learning-graphs)
 
@@ -157,6 +158,10 @@ gunzip stackoverflow-Java.txt.gz
 * [gnuplot](http://www.gnuplot.info/) - for plotting structural properties of networks (e.g., degree distribution)
   * [gnuplot - Browse /gnuplot at SourceForge.net](https://sourceforge.net/projects/gnuplot/files/gnuplot/)
 * [GraphViz](https://www.graphviz.org/) for drawing and visualizing small graphs
+
+### Others' Course Notes
+
+* [LFhase/Learning_CS224w](https://github.com/LFhase/Learning_CS224w)
 
 ---
 
