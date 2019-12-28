@@ -33,6 +33,61 @@ The course notes about Stanford CS224n Machine Learning with Graphs Fall 2019
   * [Chapter 1 from Easley and Kleinberg: Overview](CourseMaterials/Introduction/networks-book-ch01.pdf)
   * [Random graphs with arbitrary degree distributions and their applications](CourseMaterials/Introduction/Random_graphs_with_arbitrary_degree_distributions_and_their_applications.pdf)
 
+Types of Network/Graph
+
+* Networks (aka. Natural Graphs)
+* Information Graphs
+
+Data as Network
+
+* Social networks
+* Information networks: Web & citations
+* Economic networks
+* Internet
+* Communication networks
+* Networks of neurons
+
+Analyze Networks
+
+* Node classification: predict the type/color of a given node
+* Link prediction: predict whether two nodes are linked
+* Community detection: identify densely linked clusters of nodes
+* Network similarity: mesure similarity of two nodes/networks
+
+> Graph is a mathematical representation of a network
+
+Types of Graphs
+
+* Directed vs. Undirected
+* Unweighted vs. Weighted
+* Self-edges (self-loops)
+* Multigraph
+
+Special Graphs
+
+* Complete Graph
+* Bipartite Graph & its "Folded" network
+* Connected Graph (Undirected)
+* Strongly Connected vs. Weakly Connected Graph (Directed)
+  * In-component
+  * Out-component
+
+Representing Graphs
+
+1. Adjacency Matrix
+   * sparse
+2. Edge List
+3. Adjacency List
+   * allows us to quickly retrieval all neighbors of a given node
+
+Edge Attributes
+
+* Weight
+* Ranking
+* Type
+* Sign
+* ...
+
 ### Lecture 2: Properties of Networks and Random Graph Models
 
 * [video](http://snap.stanford.edu/class/cs224w-videos-2019/CS224W_on_9_26_2019_(Thu)_default_20ab4bd0.mp4)
